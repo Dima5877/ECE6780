@@ -1,0 +1,7 @@
+//ECE 6780 test file
+
+void SystemClock_Config(void);
+static void MX_GPIO_Init(void);
+static void MX_SPI2_Init(void);
+static void MX_TSC_Init(void);
+static void MX_USB_PCD_Init(void);
